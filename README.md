@@ -1,4 +1,4 @@
-# TechnicalComplint-Reconciliation
+# TechnicalComplaint-Reconciliation
 Overview
 
 This repository provides a Python script for comparing CCC and EDC Excel sheets. The tool includes a graphical user interface (GUI) built with Tkinter, which facilitates easy file selection and result display. The comparison results are saved in an Excel file with color-coded discrepancies to highlight mismatches and missing records.It includes a .desktop file to create a launcher for the script and an icon image for the launcher. This setup allows you to easily run the Python script from your Linux desktop environment.
