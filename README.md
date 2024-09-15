@@ -15,7 +15,7 @@ Setup Instructions
 
 Start by cloning this repository to your local machine:
 
-git clone https://github.com/Anjali-Kumari-Mina/Technical_Complaint_Reconciliation.git
+git clone https://github.com/DevikaSK-UI/TechnicalComplint-Reconcilition.git
 
 Navigate to the cloned directory:
 
